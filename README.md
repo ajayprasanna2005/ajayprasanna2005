@@ -16,17 +16,3 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
 </p>
-
----
-
-### 💫 About Me
-- 🧠 Exploring the world of AI, data, and intelligent systems  
-- 💻 Currently learning deep learning, ML, and real-world data projects  
-- 🎯 Goal: Build smarter tech that powers innovation  
-
----
-
-
-> *"Your future is created by what you do today — not tomorrow."*
-
-
