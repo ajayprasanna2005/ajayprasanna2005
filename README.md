@@ -3,7 +3,7 @@
 <p align="center">
   🎓 <strong>B.Tech – AI & Data Science</strong><br>
   📍 Chengalpattu, India<br>
- <p align="center">
+ <p align="left">
   <a href="https://www.linkedin.com/in/ajay-prasanna-mohan-557771290">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
