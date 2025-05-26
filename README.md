@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm AJAY PRASANNA M</h1>
-<p align="center">
-  🎓 <strong>B.Tech – Artificial Intelligence & Data Science</strong><br>
+<h4 align="left">From KARPAGA VINAGAYA COLLEGE ENGINEERING AND TECHNOLOGY</h3>
+<p align="left">
+   <strong>B.Tech – Artificial Intelligence & Data Science</strong><br>
   📍 <strong>Chengalpattu, Tamil Nadu, India</strong>
 </p>
 ---
@@ -8,7 +9,7 @@
 ### 📜 Certificates
 
 - ✅ [DATA SCIENCE FOR ENGINEERS-NPTEL](https://github.com/ajayprasanna2005/NPTEL/blob/main/DATA%20SCIENCE%20FOR%20ENGINEERS-AJAY%20PRASANNA%20M.pdf)
-- ✅ [Python for Data Science – Coursera](#)
+- ✅ [Python for Data Scienc – Coursera](#)
 - ✅ [Git & GitHub Essentials – Udemy](#)
 
 ---
