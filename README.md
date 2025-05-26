@@ -4,7 +4,7 @@
    👨‍🎓 <strong>B.Tech – Artificial Intelligence & Data Science</strong><br>
   📍 <strong>Chengalpattu, Tamil Nadu, India</strong>
 </p>
-📜 Certificates
+>>>📜 Certificates
 
 - ✅ [DATA SCIENCE FOR ENGINEERS-NPTEL](https://github.com/ajayprasanna2005/NPTEL/blob/main/DATA%20SCIENCE%20FOR%20ENGINEERS-AJAY%20PRASANNA%20M.pdf)
 - ✅ [Python for Data Scienc – Coursera](#)
