@@ -5,25 +5,9 @@
 </p>
 ---
 
-### 🚀 Featured Projects
-
-- 🔢 **Digit Recognizer with Deep Learning**  
-  `A CNN-based project for classifying handwritten digits using MNIST.`  
-  [🔗 GitHub Repo](#)
-
-- 🧠 **ML Experiments for AL3451**  
-  `Machine Learning experiments covering supervised and unsupervised learning with real datasets.`  
-  [🔗 GitHub Repo](#)
-
-- 🕹️ **Game Dev Practice (Coming Soon)**  
-  `Learning game development using Python and Unity.`  
-  _Stay tuned..._
-
----
-
 ### 📜 Certificates
 
-- ✅ [DATA SCIENCE FOR ENGINEERS-NPTEL]()
+- ✅ [DATA SCIENCE FOR ENGINEERS-NPTEL](https://github.com/ajayprasanna2005/NPTEL/blob/main/DATA%20SCIENCE%20FOR%20ENGINEERS-AJAY%20PRASANNA%20M.pdf)
 - ✅ [Python for Data Science – Coursera](#)
 - ✅ [Git & GitHub Essentials – Udemy](#)
 
