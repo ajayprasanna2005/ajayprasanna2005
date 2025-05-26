@@ -26,13 +26,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayprasannam&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayprasannam&theme=radical" width="48%" />
-</p>
-
----
 
 > *"Your future is created by what you do today — not tomorrow."*
 
