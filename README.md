@@ -7,16 +7,6 @@
 >>>📜 Certificates
 
 - ✅ [DATA SCIENCE FOR ENGINEERS-NPTEL](https://github.com/ajayprasanna2005/NPTEL/blob/main/DATA%20SCIENCE%20FOR%20ENGINEERS-AJAY%20PRASANNA%20M.pdf)
-- ✅ [Python for Data Scienc – Coursera](#)
-- ✅ [Git & GitHub Essentials – Udemy](#)
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajayprasannam&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajayprasannam&theme=radical" width="48%" />
-</p>
 
 ---
 
