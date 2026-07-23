@@ -1,91 +1,171 @@
 <div align="center">
 
-# Hi, I'm Ajay Prasanna M
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,30:6A00FF,70:00F5FF,100:FF00FF&text=AJAY%20PRASANNA%20M&fontColor=FFFFFF&fontSize=45&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=AI+%26+Data+Science+Student;Machine+Learning+Explorer;Python+and+Data+Science+Learner;Building+Projects+with+Purpose" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=AI+%26+Data+Science+Student;Machine+Learning+Explorer;Python+Developer;Building+Projects+with+Purpose;Always+Learning+Something+New" />
 
-**B.Tech Artificial Intelligence & Data Science**<br>
-**Karpaga Vinayaga College of Engineering and Technology**<br>
-Chengalpattu, Tamil Nadu, India
+<p>
+<img src="https://komarev.com/ghpvc/?username=ajayprasanna2005&label=Profile%20Views&color=00F5FF&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/ajayprasanna2005?style=for-the-badge&color=6A00FF"/>
+<img src="https://img.shields.io/github/stars/ajayprasanna2005?affiliations=OWNER&style=for-the-badge&color=FF00FF"/>
+</p>
 
 </div>
 
 ---
 
-## About Me
+# <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="35"> About Me
 
-I am an AI and Data Science student focused on learning by building. I enjoy turning data into useful insights, experimenting with machine learning models, and improving my Python development skills through practical projects.
+```bash
+> whoami
 
-- Currently learning: machine learning, data science, and Python project workflows
-- Interested in: AI applications, predictive modeling, and real-world datasets
-- Goal: build clean, useful, and understandable tech projects
-- Portfolio focus: practical ML projects, certifications, and continuous learning
+Name      : Ajay Prasanna M
+
+Role      : AI & Data Science Student
+
+College   : Karpaga Vinayaga College of Engineering
+
+Location  : Tamil Nadu 🇮🇳
+
+Focus     : Machine Learning
+            Data Science
+            Python
+            Artificial Intelligence
+
+Status    : Building projects one commit at a time...
+```
 
 ---
 
-## Tech Stack
+# ⚡ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode,jupyter,mysql"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/ScikitLearn-111111?style=for-the-badge&logo=scikitlearn&logoColor=00F5FF"/>
+<img src="https://img.shields.io/badge/Jupyter-111111?style=for-the-badge&logo=jupyter&logoColor=00F5FF"/>
+
 </p>
 
 ---
 
-## Featured Learning
+# 🚀 Current Learning
 
-| Area | What I am building |
-| --- | --- |
-| Data Science | Cleaning data, exploring patterns, and visualizing insights |
-| Machine Learning | Training models, evaluating results, and improving predictions |
-| Python | Writing simple, reusable scripts for real tasks |
-| GitHub | Maintaining projects, documentation, and version control |
+```text
+Python             ██████████████ 100%
+
+Data Science       ████████████░ 90%
+
+Machine Learning   ██████████░░░ 80%
+
+Deep Learning      ███████░░░░░░ 60%
+
+LLMs               █████░░░░░░░░ 40%
+```
 
 ---
 
-## Certificates
-
-- [Data Science for Engineers - NPTEL](https://github.com/ajayprasanna2005/NPTEL/blob/main/DATA%20SCIENCE%20FOR%20ENGINEERS-AJAY%20PRASANNA%20M.pdf)
-
----
-
-## GitHub Snapshot
+# 📊 GitHub Dashboard
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ajayprasanna2005&show_icons=true&theme=tokyonight&hide_border=true" alt="Ajay's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayprasanna2005&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ajayprasanna2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayprasanna2005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
 </div>
 
 ---
 
-## Quote I Keep in Mind
+# 🔥 GitHub Streak
 
-> "Your future is created by what you do today, not tomorrow."
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ajayprasanna2005&theme=tokyonight&hide_border=true&background=0D1117"/>
+
+</div>
 
 ---
 
-## Connect With Me
+# 📈 Contribution Graph
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/ajay-prasanna-mohan-557771290" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ajax_____._/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="mailto:ajayprasanna.m2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayprasanna2005&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ajayprasanna2005&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 🎯 Goals
+
+- 🚀 Build impactful AI applications
+- 📚 Master Machine Learning
+- 🧠 Learn Deep Learning
+- 🌍 Contribute to Open Source
+- 💻 Build projects that solve real problems
+
+---
+
+# 📜 Certifications
+
+📘 **Data Science for Engineers – NPTEL**
+
+---
+
+# 💬 Quote
+
+<div align="center">
+
+> **"Men are Brave 🦇"**
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/ajay-prasanna-mohan-557771290">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=00F5FF"/>
+</a>
+
+<a href="mailto:ajayprasanna.m2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=FF00FF"/>
+</a>
+
+<a href="https://www.instagram.com/ajax_____._/">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=6A00FF"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-**Thanks for visiting my profile. Let's learn, build, and grow.**
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,30:6A00FF,70:00F5FF,100:FF00FF"/>
+
+### ⚡ Thanks for visiting my profile ⚡
+
+**Building the future with AI, one commit at a time.**
 
 </div>
